@@ -9,8 +9,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1791-richest-customer-wealth](https://github.com/BhanuSatya199/Leetcode/tree/master/1791-richest-customer-wealth) |
+| [2210-find-target-indices-after-sorting-array](https://github.com/BhanuSatya199/Leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
 ## Matrix
 |  |
 | ------- |
 | [1791-richest-customer-wealth](https://github.com/BhanuSatya199/Leetcode/tree/master/1791-richest-customer-wealth) |
+## Binary Search
+|  |
+| ------- |
+| [2210-find-target-indices-after-sorting-array](https://github.com/BhanuSatya199/Leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
+## Sorting
+|  |
+| ------- |
+| [2210-find-target-indices-after-sorting-array](https://github.com/BhanuSatya199/Leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
 <!---LeetCode Topics End-->
