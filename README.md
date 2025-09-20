@@ -22,4 +22,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2210-find-target-indices-after-sorting-array](https://github.com/BhanuSatya199/Leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
+## Tree
+|  |
+| ------- |
+| [2384-root-equals-sum-of-children](https://github.com/BhanuSatya199/Leetcode/tree/master/2384-root-equals-sum-of-children) |
+## Binary Tree
+|  |
+| ------- |
+| [2384-root-equals-sum-of-children](https://github.com/BhanuSatya199/Leetcode/tree/master/2384-root-equals-sum-of-children) |
 <!---LeetCode Topics End-->
